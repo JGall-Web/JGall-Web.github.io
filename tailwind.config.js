@@ -6,8 +6,13 @@ module.exports = {
 
   ],
   theme: {
-    extend: {},
+    extend: {
+
+      fontFamily: {
+        body: ['Kanit']
+      }
+
+    },
   },
   plugins: [],
 }
-
